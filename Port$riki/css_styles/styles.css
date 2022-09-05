@@ -1,6 +1,4 @@
-body { 
-    background-color: #EAF6F6;
-}
+
 hr{
 border-style: none;
 border-top-style: dotted;
@@ -9,9 +7,47 @@ border-width:5px;
 width:5%;
 }
 h1{
+    font-size: xx-large;
 color: #256D85;
 }
 
-#imf:hover{
-       color:gold;
+.hel:hover{
+       color:gold !important;  
+}
+
+h1:hover{
+    color:blue;
+}
+
+.hw{
+  margin-left: 40px;
+}
+
+
+.topdiv{
+    background-color: red;
+    height:200px;
+    width:200px;
+}
+.botdiv{
+    background-color: blue;
+    height:200px;
+    width:200px;
+}
+.middiv{
+    background-color: green;
+    height:200px;
+    width:200px;
+}
+
+#belo{
+ background-color:blue;
+}
+
+.helo{
+    background-color: pink;
+}
+
+span{
+    background-color: black;
 }
