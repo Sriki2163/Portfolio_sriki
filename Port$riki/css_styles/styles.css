@@ -2,10 +2,11 @@
 hr{
 border-style: none;
 border-top-style: dotted;
-border-color: grey;
+border-color: yellow;
 border-width:5px;
 width:5%;
 }
+
 h1{
     font-size: xx-large;
 color: #256D85;
@@ -22,7 +23,6 @@ h1:hover{
 .hw{
   margin-left: 40px;
 }
-
 
 .topdiv{
     background-color: red;
